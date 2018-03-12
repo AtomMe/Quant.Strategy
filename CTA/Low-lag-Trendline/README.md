@@ -6,20 +6,12 @@ I use a VBA program to implement this strategy([Check here](./model)). I use low
 ## Result
 * **PTA**
 <br>
-<center>**PnL** </center>
+![](./result/PTA1.png)
 <br>
-<center>![](./result/PTA1.png)</center>
-<br>
-<center> **Signal & Price** </center>
-<br>
-<center>![](./result/PTA2.png)</center>
+![](./result/PTA2.png)
 <br>
 * **RB**
 <br>
-<center> **PnL** </center>
+![](./result/RB1.png)
 <br>
-<center>![](./result/RB1.png)</center>
-<br>
-<center> **Signal & Price** </center>
-<br>
-<center>![](./result/RB2.png)</center>
+![](./result/RB2.png)
