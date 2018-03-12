@@ -5,13 +5,14 @@ The method of Low-lag Trendline regard price as signal. So many signal-processin
 I use a VBA program to implement this strategy([Check here](./model)). I use low-frequency(day-level) to test this strategy.Totally, I test  nine kinds of commodity futures, one index and one stock.Some results can be shown as follows.
 ## Result
 * **PTA**
-<br>
+
 ![](./result/PTA1.png)
-<br>
+
 ![](./result/PTA2.png)
-<br>
+
+
 * **RB**
-<br>
+
 ![](./result/RB1.png)
-<br>
+
 ![](./result/RB2.png)
