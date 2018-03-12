@@ -11,3 +11,5 @@ I use [**MongoDB**](https://www.mongodb.com/) as my developed database to store 
 ### CTA Strategy
 
 * [Low-lag Trendline &  timing strategy on futures](./CTA/Low-lag-Trendline)
+
+### Stock Strategy
