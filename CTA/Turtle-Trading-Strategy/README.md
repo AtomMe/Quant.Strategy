@@ -11,7 +11,7 @@ If you want to test other futures, you can get ideas from this code and just rep
 ### Market
 The Turtles trade liquid futures.If a trader chose not to trade in a particular market, then he will not trade that market at all.
 ### Position Size
-* **Unit =（ 1% of Account) / (N * Dollars per point)**
+* **Unit =(1% of Account) / (N * Dollars per point)**
 * **N = ATR * Dollars per point**
 * **ATR=mean(TR,20)**, average of the True Range
 * **TR = max(H−L,H−PDC，PDC−L)**, True Range
