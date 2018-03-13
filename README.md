@@ -10,6 +10,10 @@ I use [**MongoDB**](https://www.mongodb.com/) as my developed database to store 
 ## Strategy Set
 ### CTA Strategy
 
-* [Low-lag Trendline &  timing strategy on futures](./CTA/Low-lag-Trendline)
+* [Low-lag Trendline &  Timing Strategy on Futures](./CTA/Low-lag-Trendline)
 
 ### Stock Strategy
+
+### Others
+
+* [The Cobwebs Trend Strategy of Index Futures](./others/Cobwebs-Trend-Strategy)
