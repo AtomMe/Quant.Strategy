@@ -7,7 +7,7 @@ This is a pretty fundamental strategy and it seems to work well. There are a few
 
 If you want to test other futures, you can get ideas from this code and just replace the [data file](./data.csv) which store the underlying's price. 
 ## Model
- ![](./turtle-strategy-samples.jpg)
+ ![](./PNG/turtle-strategy-samples.jpg)
 ### Market
 The Turtles trade liquid futures.If a trader chose not to trade in a particular market, then he will not trade that market at all.
 ### Position Size
@@ -34,11 +34,11 @@ There are two very important parameters in Turtle strtegy, namely,Channel Breako
 
 * **Parameter Analysis without fees**
 
- ![](./Parameter-Analysis-without-fees.png)
+ ![](./PNG/Parameter-Analysis-without-fees.png)
 
 * **Parameter Analysis with fees**
 
- ![](./Parameter-Analysis-with-fees.png)
+ ![](./PNG/Parameter-Analysis-with-fees.png)
 
 ## Result - RB future
 
@@ -46,7 +46,7 @@ There are two very important parameters in Turtle strtegy, namely,Channel Breako
 * T=10, pricipal=20,000
 * no limits on units
 
-![](./1.png)
+![](./PNG/1.png)
 
 
 ----------
@@ -55,7 +55,7 @@ There are two very important parameters in Turtle strtegy, namely,Channel Breako
 * T=10, pricipal=20,000
 * fix units as 1
 
-![](./2.png)
+![](./PNG/2.png)
 
 
 ----------
@@ -64,4 +64,4 @@ There are two very important parameters in Turtle strtegy, namely,Channel Breako
 * T=60, pricipal=20,000
 * fix units as 1
 
-![](./3.png)
+![](./PNG/3.png)
