@@ -1,6 +1,6 @@
 # Price Limit Strategy on stocks of A share
 ## Idea
-The range of stock's price limits is 10% in China. It is rather lower compared to other contries. The price ca not nbe valued because of the constraints. There are some opportunities to do a trading.
+The range of stock's price limits is **10%** in China. It is rather lower compared to other contries. The price ca not nbe valued because of the constraints. There are some opportunities to do a trading.
 ## Model
 I use a `MATLAB` program to implement this strategy([check code](./model)). High-frequency (bar-level) data is required to test this strategy.
 
