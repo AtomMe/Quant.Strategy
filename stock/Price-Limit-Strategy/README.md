@@ -7,7 +7,7 @@ I use a `MATLAB` program to implement this strategy([check code](./model)). High
 * **Entry**
 	*  If a stock reaches the price-up limit three times continuously, We will mark it. And once it reach the price-up limit, we will buy it.
 * **Exit**
-	* All holding stocks will be sold in the next trading day. They should be sold as least 10:00 AM.
+	* All holding stocks will be sold in the next trading day. They should be sold at least 10:00 AM.
 ## Result
 * **Net Value of the Porfolio**
 
