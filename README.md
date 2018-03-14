@@ -15,6 +15,8 @@ I use [**MongoDB**](https://www.mongodb.com/) as my developed database to store 
 
 ### Stock Strategy
 
+* [Price Limit Strategy on Stocks of A Share](./stock/Price-Limit-Strategy)
+
 ### Others
 
 * [The Cobwebs Trend Strategy of Index Futures](./OTHERS/Cobwebs-Trend-Strategy)
