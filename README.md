@@ -20,3 +20,4 @@ I use [**MongoDB**](https://www.mongodb.com/) as my developed database to store 
 ### Others
 
 * [The Cobwebs Trend Strategy of Index Futures](./OTHERS/Cobwebs-Trend-Strategy)
+* [Hurst Exponent Estimation on Chinese A Share Market](./OTHERS/Hurst-Index-Strategy)
